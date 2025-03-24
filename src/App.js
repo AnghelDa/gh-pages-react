@@ -8,6 +8,7 @@ function App() {
         <p>
           My awesome GitHub Page running using React
         </p>
+        <p>React is very easy to learn!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
